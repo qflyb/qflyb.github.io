@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.b506aa59.chunk.css",
-    "main.js": "./static/js/main.88d6517d.chunk.js",
-    "main.js.map": "./static/js/main.88d6517d.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.4cc3ca90.js",
-    "runtime-main.js.map": "./static/js/runtime-main.4cc3ca90.js.map",
-    "static/css/2.5cd42cd0.chunk.css": "./static/css/2.5cd42cd0.chunk.css",
-    "static/js/2.b43cff47.chunk.js": "./static/js/2.b43cff47.chunk.js",
-    "static/js/2.b43cff47.chunk.js.map": "./static/js/2.b43cff47.chunk.js.map",
+    "main.css": "./static/css/main.c39bff22.chunk.css",
+    "main.js": "./static/js/main.c0412d26.chunk.js",
+    "main.js.map": "./static/js/main.c0412d26.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2601e20c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2601e20c.js.map",
+    "static/css/2.350f7587.chunk.css": "./static/css/2.350f7587.chunk.css",
+    "static/js/2.0e47648f.chunk.js": "./static/js/2.0e47648f.chunk.js",
+    "static/js/2.0e47648f.chunk.js.map": "./static/js/2.0e47648f.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.bf2183f2dcf32f318635fed174aa76ad.js": "./precache-manifest.bf2183f2dcf32f318635fed174aa76ad.js",
+    "precache-manifest.3c660fcef0739f33b208b587de54038b.js": "./precache-manifest.3c660fcef0739f33b208b587de54038b.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.5cd42cd0.chunk.css.map": "./static/css/2.5cd42cd0.chunk.css.map",
-    "static/css/main.b506aa59.chunk.css.map": "./static/css/main.b506aa59.chunk.css.map",
-    "static/js/2.b43cff47.chunk.js.LICENSE.txt": "./static/js/2.b43cff47.chunk.js.LICENSE.txt",
-    "static/media/Home.module.scss": "./static/media/coronavirus-4937226_1920.6bb8012b.jpg",
-    "static/media/iconfont.css": "./static/media/iconfont.ee12739a.woff"
+    "static/css/2.350f7587.chunk.css.map": "./static/css/2.350f7587.chunk.css.map",
+    "static/css/main.c39bff22.chunk.css.map": "./static/css/main.c39bff22.chunk.css.map",
+    "static/js/2.0e47648f.chunk.js.LICENSE.txt": "./static/js/2.0e47648f.chunk.js.LICENSE.txt",
+    "static/media/1.gif": "./static/media/1.a971dd4c.gif",
+    "static/media/18125419-a9d252c0c1284ea2.gif": "./static/media/18125419-a9d252c0c1284ea2.d1de3bdc.gif",
+    "static/media/2.gif": "./static/media/2.5ab187ca.gif",
+    "static/media/3.gif": "./static/media/3.b5617f91.gif",
+    "static/media/coronavirus-4937226_1920.jpg": "./static/media/coronavirus-4937226_1920.6bb8012b.jpg",
+    "static/media/iconfont.css": "./static/media/iconfont.98879124.ttf",
+    "static/media/wall-3372631_1920.jpg": "./static/media/wall-3372631_1920.f7eb4765.jpg",
+    "static/media/workplace-2303851_1920.jpg": "./static/media/workplace-2303851_1920.10c089f2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cc3ca90.js",
-    "static/css/2.5cd42cd0.chunk.css",
-    "static/js/2.b43cff47.chunk.js",
-    "static/css/main.b506aa59.chunk.css",
-    "static/js/main.88d6517d.chunk.js"
+    "static/js/runtime-main.2601e20c.js",
+    "static/css/2.350f7587.chunk.css",
+    "static/js/2.0e47648f.chunk.js",
+    "static/css/main.c39bff22.chunk.css",
+    "static/js/main.c0412d26.chunk.js"
   ]
 }
