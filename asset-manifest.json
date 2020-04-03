@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.3cccf2ec.chunk.css",
-    "main.js": "./static/js/main.986a53ce.chunk.js",
-    "main.js.map": "./static/js/main.986a53ce.chunk.js.map",
+    "main.css": "./static/css/main.c3fb3611.chunk.css",
+    "main.js": "./static/js/main.9d115065.chunk.js",
+    "main.js.map": "./static/js/main.9d115065.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.2601e20c.js",
     "runtime-main.js.map": "./static/js/runtime-main.2601e20c.js.map",
     "static/css/2.350f7587.chunk.css": "./static/css/2.350f7587.chunk.css",
-    "static/js/2.21c42cd1.chunk.js": "./static/js/2.21c42cd1.chunk.js",
-    "static/js/2.21c42cd1.chunk.js.map": "./static/js/2.21c42cd1.chunk.js.map",
+    "static/js/2.e05c1cfe.chunk.js": "./static/js/2.e05c1cfe.chunk.js",
+    "static/js/2.e05c1cfe.chunk.js.map": "./static/js/2.e05c1cfe.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.6977e94d9aa1dd917ef19bf6fb1af2b5.js": "./precache-manifest.6977e94d9aa1dd917ef19bf6fb1af2b5.js",
+    "precache-manifest.ad7775624692fef2e06f015de05c69a3.js": "./precache-manifest.ad7775624692fef2e06f015de05c69a3.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.350f7587.chunk.css.map": "./static/css/2.350f7587.chunk.css.map",
-    "static/css/main.3cccf2ec.chunk.css.map": "./static/css/main.3cccf2ec.chunk.css.map",
-    "static/js/2.21c42cd1.chunk.js.LICENSE.txt": "./static/js/2.21c42cd1.chunk.js.LICENSE.txt",
+    "static/css/main.c3fb3611.chunk.css.map": "./static/css/main.c3fb3611.chunk.css.map",
+    "static/js/2.e05c1cfe.chunk.js.LICENSE.txt": "./static/js/2.e05c1cfe.chunk.js.LICENSE.txt",
     "static/media/1.gif": "./static/media/1.a971dd4c.gif",
     "static/media/18125419-a9d252c0c1284ea2.gif": "./static/media/18125419-a9d252c0c1284ea2.82904a2c.gif",
     "static/media/2.gif": "./static/media/2.5ab187ca.gif",
@@ -21,14 +21,15 @@
     "static/media/coronavirus-4937226_1920.jpg": "./static/media/coronavirus-4937226_1920.6bb8012b.jpg",
     "static/media/iconfont.css": "./static/media/iconfont.98879124.ttf",
     "static/media/introduction.svg": "./static/media/introduction.b7664db1.svg",
+    "static/media/myintroduction.svg": "./static/media/myintroduction.e189917c.svg",
     "static/media/wall-3372631_1920.jpg": "./static/media/wall-3372631_1920.f7eb4765.jpg",
     "static/media/workplace-2303851_1920.jpg": "./static/media/workplace-2303851_1920.10c089f2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2601e20c.js",
     "static/css/2.350f7587.chunk.css",
-    "static/js/2.21c42cd1.chunk.js",
-    "static/css/main.3cccf2ec.chunk.css",
-    "static/js/main.986a53ce.chunk.js"
+    "static/js/2.e05c1cfe.chunk.js",
+    "static/css/main.c3fb3611.chunk.css",
+    "static/js/main.9d115065.chunk.js"
   ]
 }
