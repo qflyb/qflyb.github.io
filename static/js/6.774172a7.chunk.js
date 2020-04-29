@@ -1,0 +1,2 @@
+(this["webpackJsonpmikumirai.github.io"]=this["webpackJsonpmikumirai.github.io"]||[]).push([[6],{744:function(t,e,n){"use strict";n.r(e);var i=n(11),a=n(12),u=n(13),r=n(14),c=n(0),o=n.n(c),l=function(t){Object(r.a)(n,t);var e=Object(u.a)(n);function n(){return Object(i.a)(this,n),e.apply(this,arguments)}return Object(a.a)(n,[{key:"render",value:function(){return o.a.createElement("div",null,o.a.createElement("h2",null,"\u9875\u9762\u8d70\u4e22\u4e86..."))}}]),n}(c.Component);e.default=l}}]);
+//# sourceMappingURL=6.774172a7.chunk.js.map
