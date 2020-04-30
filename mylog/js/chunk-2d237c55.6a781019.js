@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d237c55"],{fd12:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},c=[],r={name:"Imageborad"},u=r,d=t("2877"),o=Object(d["a"])(u,a,c,!1,null,"d55eb414",null);n["default"]=o.exports}}]);
-//# sourceMappingURL=chunk-2d237c55.7f821422.js.map
+//# sourceMappingURL=chunk-2d237c55.6a781019.js.map
